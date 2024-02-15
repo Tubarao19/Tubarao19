@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Django and FastApi with aws and postgreSQL**
 
+- 🤝 I'm currently collaborating on [LinuxBQ](https://linuxbq.org/) with wordpress
+
 - 👯 I'm currently collaborating on [MyMoneyUP](https://github.com/esgaelramos/MyMoneyUP)
 
 - 🤝 I'm currently collaborating on [FastAPI-MyMoneyUP](https://github.com/esgaelramos/FastAPI-MyMoneyUP.git)
