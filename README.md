@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miguel Monsalvo</h1>
 <h3 align="center">A passionate backend developer from colombia</h3>
 
+- 🤝 I'm currently collaborating on [LinuxBQ](https://linuxbq.org/) with wordpress
+
 - 🔭 I’m currently working on [django crud](https://github.com/memonsalvo/crud-dj.git)
 
 - 🌱 I’m currently learning **Django and FastApi with aws and postgreSQL**
-
-- 🤝 I'm currently collaborating on [LinuxBQ](https://linuxbq.org/) with wordpress
 
 - 👯 I'm currently collaborating on [MyMoneyUP](https://github.com/esgaelramos/MyMoneyUP)
 
