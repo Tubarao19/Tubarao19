@@ -70,6 +70,8 @@
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tubarao19&repo=FastLOL&theme=chartreuse-dark)](https://github.com/Tubarao19/FastLOL)
 
+[![ReadMe Card](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://linuxbq.org/)
+
 <Br>
 <!--articulos-->
 <h2 >📜 Mis Artículos</h2>
