@@ -20,12 +20,22 @@
 
 <!--Inicio de edicion del formato-->
 <h1 align="center">Hola 👋  soy Miguel Monsalvo ✨ </h1> 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=TECNOLOGO+EN+SISTEMAS;Estudiante+en+Ciberseguridad;Always+learning+new+things"></a>
-<p align="left">
-<a href="https://www.linkedin.com/in/miguel-monsalvo-manjarres-307152175/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tubarao19"/></a>
-<a href = "mailto:miguelmonsalvo19@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@tubarao19"  /></a>
-  </p>
-<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=TECNOLOGO+EN+SISTEMAS;Estudiante+en+Ciberseguridad;Always+learning+new+things">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguel-monsalvo-manjarres-307152175/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:miguelmonsalvo19@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
@@ -56,6 +66,7 @@
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
+ 
 ### 📜 &nbsp;Mis Artículos
 
 ---
