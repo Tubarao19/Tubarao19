@@ -56,11 +56,16 @@
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
-### 📜 &nbsp;Mis Articulos
+### 📜 &nbsp;Mis Artículos
 
-<a href="https://vintage-heliotrope-eb5.notion.site/1e256119ecd24fbaabc021ea8b1462fb?v=147c80d73ec943d3a013a50c47e42293" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</a>
+---
+
+<p align="center">
+  <a href="https://vintage-heliotrope-eb5.notion.site/1e256119ecd24fbaabc021ea8b1462fb?v=147c80d73ec943d3a013a50c47e42293" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a>
+</p>
+
 
 <table align="left" >
 <tr border="none">
