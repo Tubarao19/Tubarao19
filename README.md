@@ -72,7 +72,15 @@
 
 [![ReadMe Card](https://img.shields.io/badge/LinuxBQ-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://linuxbq.org/)
 
-<tbody>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
@@ -99,6 +107,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
+</table>
 
 <Br>
 <!--articulos-->
