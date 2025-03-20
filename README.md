@@ -71,40 +71,19 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tubarao19&repo=FastLOL&theme=chartreuse-dark)](https://github.com/Tubarao19/FastLOL)
 
 <Br>
-
+<Br>
 <!--articulos-->
 ### 📜 &nbsp;Mis Artículos
-
-
+<Br>
+---
 <p align="left">
   <a href="https://github.com/linuxbq" target="_blank">
   <img src="https://img.shields.io/badge/LinuxBQ-000000?style=for-the-badge&logo=linux&logoColor=white" alt="linuxbq" />
 </a>
 </p>
 
-<table align="center">
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="VIDEO" />
-     </a>
-    </p>
-    <p align="center">
-      <a href="https://youtu.be/rISmdhlhOPM" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </p>       
-  </td>
-</tr>
-</table>
-
 ---
-
+<!--estadisticas segun github-->
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
