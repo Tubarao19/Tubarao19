@@ -81,19 +81,30 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://linuxbq.org/"><b>LinuxBQ</b></a></td>
+      <td><a href="https://linuxbq.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a></td>
       <td><img src="https://skillicons.dev/icons?i=php,wordpress&perline=12" /></td>
     </tr>
   </tbody>
 </table>
 
-<Br>
-<!--articulos-->
-<h2 >📜 Mis Artículos</h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/LinuxBQ-000000?style=for-the-badge&logo=linux&logoColor=white" alt="linuxbq" />
-</a>
-</p>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📜 Mis Artículos</b></td>
+      <td><b>🔧 Tecnologias</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://vintage-heliotrope-eb5.notion.site/1e256119ecd24fbaabc021ea8b1462fb?v=147c80d73ec943d3a013a50c47e42293" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  </a></td>
+      <td><img src="https://skillicons.dev/icons?i=notion&perline=12" /></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 <!--estadisticas segun github-->
