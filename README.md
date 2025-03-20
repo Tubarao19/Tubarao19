@@ -77,27 +77,39 @@
 </p>
 
 
-<table align="left" >
+<table align="center">
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
+        <img align="center" width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="VIDEO" />
+     </a>
+    </p>
     <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://youtu.be/rISmdhlhOPM" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
     </p>       
-</td>
+  </td>
+</tr>
+</table>
 
+---
 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
+<h3 align="center">📊 My GitHub Stats</h3>
 
+<p align="center">
+  <img align="center" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" alt="Coding Animation" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tubarao19&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tubarao19" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tubarao19&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tubarao19 Top Languages" />
+</p>
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Tubarao19&show_icons=true&theme=dark&locale=en" alt="Tubarao19" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tubarao19&show_icons=true&theme=dark&locale=en" alt="Tubarao19 GitHub Stats" />
+</p>
