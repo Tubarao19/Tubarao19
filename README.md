@@ -71,7 +71,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="https://vintage-heliotrope-eb5.notion.site/1e256119ecd24fbaabc021ea8b1462fb?v=147c80d73ec943d3a013a50c47e42293" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   </a>
