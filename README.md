@@ -66,7 +66,11 @@
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
- 
+ <Br>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tubarao19&repo=FastLOL)](https://github.com/Tubarao19/FastLOL)
+
+<Br>
 ### 📜 &nbsp;Mis Artículos
 
 
