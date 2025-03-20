@@ -77,10 +77,9 @@
 
 <p align="left">
   <a href="https://github.com/linuxbq" target="_blank">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="linuxbq" />
+  <img src="https://img.shields.io/badge/LinuxBQ-000000?style=for-the-badge&logo=linux&logoColor=white" alt="linuxbq" />
 </a>
 </p>
-
 
 <table align="center">
 <tr border="none">
