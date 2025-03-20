@@ -114,3 +114,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Tubarao19&show_icons=true&locale=en&theme=chartreuse-dark" alt="Tubarao19 GitHub Stats" width="410" />
 </p>
 
+![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| --- | --- |
