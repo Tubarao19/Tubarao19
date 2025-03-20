@@ -69,7 +69,6 @@
  
 ### 📜 &nbsp;Mis Artículos
 
----
 
 <p align="left">
   <a href="https://vintage-heliotrope-eb5.notion.site/1e256119ecd24fbaabc021ea8b1462fb?v=147c80d73ec943d3a013a50c47e42293" target="_blank">
