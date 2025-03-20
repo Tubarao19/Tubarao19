@@ -72,6 +72,14 @@
 
 [![ReadMe Card](https://img.shields.io/badge/LinuxBQ-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://linuxbq.org/)
 
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://linuxbq.org/" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+      </p>
+
 <Br>
 <!--articulos-->
 <h2 >📜 Mis Artículos</h2>
