@@ -71,10 +71,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tubarao19&repo=FastLOL&theme=chartreuse-dark)](https://github.com/Tubarao19/FastLOL)
 
 <Br>
-<Br>
 <!--articulos-->
-### 📜 &nbsp;Mis Artículos
-<Br>
+<h2 >📜 Mis Artículos</h2>
 ---
 <p align="left">
   <a href="https://github.com/linuxbq" target="_blank">
