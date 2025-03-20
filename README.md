@@ -70,14 +70,12 @@
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tubarao19&repo=FastLOL&theme=chartreuse-dark)](https://github.com/Tubarao19/FastLOL)
 
-[![ReadMe Card](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://linuxbq.org/)
+[![ReadMe Card](https://img.shields.io/badge/LinuxBQ-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://linuxbq.org/)
 
 <Br>
 <!--articulos-->
 <h2 >📜 Mis Artículos</h2>
----
 <p align="left">
-  <a href="https://github.com/linuxbq" target="_blank">
   <img src="https://img.shields.io/badge/LinuxBQ-000000?style=for-the-badge&logo=linux&logoColor=white" alt="linuxbq" />
 </a>
 </p>
@@ -102,3 +100,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tubarao19&show_icons=true&locale=en&theme=chartreuse-dark" alt="Tubarao19 GitHub Stats" width="410" />
 </p>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
