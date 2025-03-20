@@ -107,9 +107,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tubarao19&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tubarao19 Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tubarao19&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Tubarao19 Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tubarao19&show_icons=true&theme=dark&locale=en" alt="Tubarao19 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tubarao19&show_icons=true&locale=en&theme=chartreuse-dark" alt="Tubarao19 GitHub Stats" width="410" />
+</p>
+
+---
+
+<h3 align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git Profile Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tubarao19&theme=juicyfresh&no-bg=true" alt="GitHub Trophies" />
 </p>
