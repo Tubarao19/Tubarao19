@@ -68,10 +68,10 @@
 <h2 >Algunos proyectos👨🏻‍💻</h2>
  <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tubarao19&repo=FastLOL)](https://github.com/Tubarao19/FastLOL)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tubarao19&repo=FastLOL&theme=chartreuse-dark)](https://github.com/Tubarao19/FastLOL)
 
 <Br>
-
+<!--articulos-->
 ### 📜 &nbsp;Mis Artículos
 
 
