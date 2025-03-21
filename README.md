@@ -70,8 +70,6 @@
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tubarao19&repo=FastLOL&theme=chartreuse-dark)](https://github.com/Tubarao19/FastLOL)
 
-[![ReadMe Card](https://img.shields.io/badge/LinuxBQ-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://linuxbq.org/)
-
 <table>
   <thead align="center">
     <tr border: none;>
@@ -82,7 +80,7 @@
   <tbody>
     <tr>
       <td><a href="https://linuxbq.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+    <img src="https://img.shields.io/badge/LinuxBQ-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   </a></td>
       <td><img src="https://skillicons.dev/icons?i=php,wordpress&perline=12" /></td>
     </tr>
@@ -99,7 +97,7 @@
   <tbody>
     <tr>
       <td><a href="https://vintage-heliotrope-eb5.notion.site/1e256119ecd24fbaabc021ea8b1462fb?v=147c80d73ec943d3a013a50c47e42293" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+    <img src="https://img.shields.io/badge/LinuxBQ-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   </a></td>
       <td><img src="https://skillicons.dev/icons?i=notion&perline=12" /></td>
     </tr>
