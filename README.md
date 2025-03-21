@@ -69,6 +69,7 @@
  <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tubarao19&repo=FastLOL&theme=chartreuse-dark)](https://github.com/Tubarao19/FastLOL)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tubarao19&repo=crud-dj&theme=chartreuse-dark)](https://github.com/Tubarao19/crud-dj)
 
 <table>
   <thead align="center">
