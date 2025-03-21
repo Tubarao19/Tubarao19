@@ -1,23 +1,3 @@
-<h1 align="center">Hi 👋, I'm Miguel Monsalvo</h1>
-<h3 align="center">A passionate backend developer from colombia</h3>
-
-- 🤝 I'm currently collaborating on [LinuxBQ](https://linuxbq.org/) with wordpress
-
-- 🔭 I’m currently working on [django crud](https://github.com/memonsalvo/crud-dj.git)
-
-- 🌱 I’m currently learning **Django and FastApi with aws and postgreSQL**
-
-- 👯 I'm currently collaborating on [MyMoneyUP](https://github.com/esgaelramos/MyMoneyUP)
-
-- 🤝 I'm currently collaborating on [FastAPI-MyMoneyUP](https://github.com/esgaelramos/FastAPI-MyMoneyUP.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/memonsalvo?tab=repositories](https://github.com/memonsalvo?tab=repositories)
-
-- 📝 I regularly write articles on [https://vintage-heliotrope-eb5.notion.site/1e256119ecd24fbaabc021ea8b1462fb?v=147c80d73ec943d3a013a50c47e42293](https://vintage-heliotrope-eb5.notion.site/1e256119ecd24fbaabc021ea8b1462fb?v=147c80d73ec943d3a013a50c47e42293)
-
-
-
-
 <!--Inicio de edicion del formato-->
 <h1 align="center">Hola 👋  soy Miguel Monsalvo ✨ </h1> 
 <p align="center">
